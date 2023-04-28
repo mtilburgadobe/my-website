@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--mywebsite--mtilburgadobe.hlx.page/
-- Live: https://main--mywebsite--mtilburgadobe.hlx.live/
+- Preview: https://main--my-website--mtilburgadobe.hlx.page/
+- Live: https://main--my-website--mtilburgadobe.hlx.live/
 
 ## Installation
 
